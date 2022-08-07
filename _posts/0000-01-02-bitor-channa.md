@@ -2,5 +2,5 @@
 layout: slide 
 title: "Welcome to our second slide!" 
 --- 
-Your text 
+TIME IS GOLD MAH BEYHBHE!
 Use the left arrow to go back!
